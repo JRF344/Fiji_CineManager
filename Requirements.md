@@ -159,3 +159,5 @@ Clientes pueden registrarse por su propia cuenta
     - Solo puede tener opcion de iniciar sesion y crear cuenta
 - App debe tener terminos y condiciones cuando registrandose y cuando comprando
 - IVA debe estar incluido
+
+- [DEMO]
